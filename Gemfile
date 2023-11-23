@@ -2,7 +2,7 @@
 source 'https://rubygems.org'
 
 # Tell heroku and bundler which version of ruby to use
-ruby '2.3.0'
+ruby '2.7.8'
 
 # Gems used by all environments (development, production & test)
 gem 'sinatra'
